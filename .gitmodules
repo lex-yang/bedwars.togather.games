@@ -1,0 +1,3 @@
+[submodule "tgmcee"]
+	path = tgmcee
+	url = https://github.com/lex-yang/py-tgmcee
